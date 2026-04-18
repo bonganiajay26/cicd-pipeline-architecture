@@ -90,7 +90,7 @@ jobs:
             "^pipeline"
             "agent"
             "stages"
-            "stage("
+            "stage\("
             "steps"
             "post"
             "always"
